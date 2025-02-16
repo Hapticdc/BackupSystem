@@ -1,0 +1,9 @@
+name: BackupSystem
+version: '${project.version}'
+main: de.schelle.backupsystem.BackupSystem
+api-version: '1.21'
+
+
+commands:
+  backup:
+    description: Hiermit kann man Backups Erstellen.
